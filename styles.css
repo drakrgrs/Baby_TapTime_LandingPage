@@ -14,11 +14,12 @@ body {
 }
 
 .app-icon {
-  width: 150px;
-  height: 150px;
-  border-radius: 24px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  margin-bottom: 1rem;
+ display: block;
+  margin: 40px auto 20px;
+  width: 180px;
+  height: auto;
+  border-radius: 28px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
 }
 
 h1 {
